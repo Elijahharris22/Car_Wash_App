@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car_Wash_App</string>
+    <string name="tvPackage">Car Wash Packages</string>
+    <string name ="hint">Number of Washes</string>
+    <string name = "rbExteriorwash">Exterior only</string>
+    <string name="rbWashVac">Exterior With interior Vacuum</string>
+    <string name ="btCalcPackage">Calculate Package</string>
+
+</resources>
